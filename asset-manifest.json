@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/realtime-chat-app/static/css/main.63133401.css",
-    "main.js": "/realtime-chat-app/static/js/main.181d3896.js",
+    "main.css": "/realtime-chat-app/static/css/main.aef43d0e.css",
+    "main.js": "/realtime-chat-app/static/js/main.5fa2321e.js",
+    "static/media/d.jpg": "/realtime-chat-app/static/media/d.9510febcd853b4d5ae0d.jpg",
     "index.html": "/realtime-chat-app/index.html",
-    "main.63133401.css.map": "/realtime-chat-app/static/css/main.63133401.css.map",
-    "main.181d3896.js.map": "/realtime-chat-app/static/js/main.181d3896.js.map"
+    "main.aef43d0e.css.map": "/realtime-chat-app/static/css/main.aef43d0e.css.map",
+    "main.5fa2321e.js.map": "/realtime-chat-app/static/js/main.5fa2321e.js.map"
   },
   "entrypoints": [
-    "static/css/main.63133401.css",
-    "static/js/main.181d3896.js"
+    "static/css/main.aef43d0e.css",
+    "static/js/main.5fa2321e.js"
   ]
 }
