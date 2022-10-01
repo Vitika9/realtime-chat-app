@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/realtime-chat-app/static/css/main.4f22e6e1.css",
-    "main.js": "/realtime-chat-app/static/js/main.ef21637b.js",
-    "static/media/google_logo.png": "/realtime-chat-app/static/media/google_logo.0590aaf0fe36e23dcc8c.png",
-    "static/media/bg.jpg": "/realtime-chat-app/static/media/bg.9510febcd853b4d5ae0d.jpg",
-    "index.html": "/realtime-chat-app/index.html",
-    "main.4f22e6e1.css.map": "/realtime-chat-app/static/css/main.4f22e6e1.css.map",
-    "main.ef21637b.js.map": "/realtime-chat-app/static/js/main.ef21637b.js.map"
+    "main.css": "/realtime-chat-room/static/css/main.a59e6d8c.css",
+    "main.js": "/realtime-chat-room/static/js/main.a6bae16b.js",
+    "static/media/bg.png": "/realtime-chat-room/static/media/bg.b77f0ba7177b6e47522d.png",
+    "static/media/google_logo.png": "/realtime-chat-room/static/media/google_logo.0590aaf0fe36e23dcc8c.png",
+    "index.html": "/realtime-chat-room/index.html",
+    "main.a59e6d8c.css.map": "/realtime-chat-room/static/css/main.a59e6d8c.css.map",
+    "main.a6bae16b.js.map": "/realtime-chat-room/static/js/main.a6bae16b.js.map"
   },
   "entrypoints": [
-    "static/css/main.4f22e6e1.css",
-    "static/js/main.ef21637b.js"
+    "static/css/main.a59e6d8c.css",
+    "static/js/main.a6bae16b.js"
   ]
 }
