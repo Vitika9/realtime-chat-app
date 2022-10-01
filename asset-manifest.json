@@ -1,14 +1,15 @@
 {
   "files": {
-    "main.css": "/realtime-chat-app/static/css/main.aef43d0e.css",
-    "main.js": "/realtime-chat-app/static/js/main.5fa2321e.js",
-    "static/media/d.jpg": "/realtime-chat-app/static/media/d.9510febcd853b4d5ae0d.jpg",
+    "main.css": "/realtime-chat-app/static/css/main.809b4e5a.css",
+    "main.js": "/realtime-chat-app/static/js/main.ef21637b.js",
+    "static/media/google_logo.png": "/realtime-chat-app/static/media/google_logo.0590aaf0fe36e23dcc8c.png",
+    "static/media/bg.jpg": "/realtime-chat-app/static/media/bg.9510febcd853b4d5ae0d.jpg",
     "index.html": "/realtime-chat-app/index.html",
-    "main.aef43d0e.css.map": "/realtime-chat-app/static/css/main.aef43d0e.css.map",
-    "main.5fa2321e.js.map": "/realtime-chat-app/static/js/main.5fa2321e.js.map"
+    "main.809b4e5a.css.map": "/realtime-chat-app/static/css/main.809b4e5a.css.map",
+    "main.ef21637b.js.map": "/realtime-chat-app/static/js/main.ef21637b.js.map"
   },
   "entrypoints": [
-    "static/css/main.aef43d0e.css",
-    "static/js/main.5fa2321e.js"
+    "static/css/main.809b4e5a.css",
+    "static/js/main.ef21637b.js"
   ]
 }
